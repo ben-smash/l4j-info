@@ -12,6 +12,7 @@ Compiling valuable links as I find them documenting CVE-2021-44228 or Log4J
 # Intelligence & Mitigation:
 - [Microsoft mitigation strategy](https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/)
 - [CISA Cyber Hygine Services](https://www.cisa.gov/cyber-hygiene-services)
+- [Microsoft Azure Sentinel IoC list, YAML](https://github.com/Azure/Azure-Sentinel/blob/master/Detections/MultipleDataSources/Log4J_IPIOC_Dec112021.yaml)
 - [Where to look & what we’re looking for](https://github.com/timb-machine/log4j/)
 - [Huntress Log4Shell Vulnerability Tester](https://log4shell.huntress.com/)
 - [Malware samples known to be exploiting Log4J](https://t.co/xvJa5yJKws)
